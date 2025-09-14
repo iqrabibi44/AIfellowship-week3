@@ -1,0 +1,20 @@
+[
+  {
+    "id": "L1",
+    "question": "If all bloops are razzies and some razzies are zopps. Can we conclude 'some bloops are zopps'?",
+    "passage": "Premises: All bloops are razzies. Some razzies are zopps.",
+    "answer": "NOT ENOUGH INFORMATION"
+  },
+  {
+    "id": "L2",
+    "question": "Alice is older than Bob. Bob is older than Carol. Who is the youngest?",
+    "passage": "Alice > Bob > Carol",
+    "answer": "Carol"
+  },
+  {
+    "id": "L3",
+    "question": "If every A is B and every B is C, is every A C?",
+    "passage": "All A -> B. All B -> C.",
+    "answer": "Yes, every A is C."
+  }
+]

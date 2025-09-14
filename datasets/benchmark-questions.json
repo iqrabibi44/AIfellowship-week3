@@ -1,0 +1,12 @@
+[
+  {
+    "id": "B1",
+    "q": "If the store opens at 9am and closes at 5pm, how many hours is it open?",
+    "answer": "8 hours"
+  },
+  {
+    "id": "B2",
+    "q": "What is 15% of 200?",
+    "answer": "30"
+  }
+]

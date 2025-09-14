@@ -1,0 +1,17 @@
+[
+  {
+    "id": "M1",
+    "problem": "If a train travels at 80 km/h for 1.5 hours, how far does it go?",
+    "answer": "120 km"
+  },
+  {
+    "id": "M2",
+    "problem": "Solve: 2(x+3)=14",
+    "answer": "x = 4"
+  },
+  {
+    "id": "M3",
+    "problem": "What is the area of a circle with radius 3? (use \u03c0\u22483.1416)",
+    "answer": "28.2744"
+  }
+]

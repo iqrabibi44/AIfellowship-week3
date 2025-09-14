@@ -1,0 +1,17 @@
+[
+  {
+    "id": "R1",
+    "prompt": "Sofia has 5 red shirts and 3 blue shirts. She gives 2 red shirts away. How many red shirts remain?",
+    "answer": "3"
+  },
+  {
+    "id": "R2",
+    "prompt": "A baker uses 2 cups of flour per cake. How much flour for 5 cakes?",
+    "answer": "10 cups"
+  },
+  {
+    "id": "R3",
+    "prompt": "If you flip a fair coin three times, what's the probability of exactly two heads?",
+    "answer": "3/8"
+  }
+]
